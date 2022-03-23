@@ -1,5 +1,7 @@
 # Fechas de parciales 
 
+Fechas de parciales, links de Organizadores y nombres de profesores 
+
 ## MATEMATICA (Agro) [Organizador](https://www.ubaxxicampusvirtual.uba.ar/pluginfile.php/829714/mod_label/intro/Organizador_%20MateAgro_%201C_2022.pdf?time=1647970169791) 
 ### Inicio de cursada 22/3/22 (Nuñez)
 
