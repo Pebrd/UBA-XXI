@@ -13,6 +13,8 @@ Fechas de parciales, links de Organizadores y nombres de profesores
 ## IPC [Organizador](https://www.ubaxxicampusvirtual.uba.ar/pluginfile.php/867953/mod_resource/content/1/Organizador.pdf) 
 ### Inicio de cursada 22/3/22 (Buacar)
 
+[Bibliografia] (https://github.com/Pebrd/UBA-XXI/blob/main/Fuente%20Directa%20El%20origen%20de%20las%20Especies%20-%20Darwin%20U.%201%20IPC%20CI%20.pdf)
+
 1) 25 al 29 de Abril 
 
 2) 6 al 10 de Junio
