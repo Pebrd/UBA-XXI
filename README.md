@@ -1,6 +1,6 @@
 # Fechas de parciales 
 
-## MATEMATICA [Organizador](https://www.ubaxxicampusvirtual.uba.ar/pluginfile.php/829714/mod_label/intro/Organizador_%20MateAgro_%201C_2022.pdf?time=1647970169791) 
+## MATEMATICA (Agro) [Organizador](https://www.ubaxxicampusvirtual.uba.ar/pluginfile.php/829714/mod_label/intro/Organizador_%20MateAgro_%201C_2022.pdf?time=1647970169791) 
 
 1) Semana del 2/5
 
