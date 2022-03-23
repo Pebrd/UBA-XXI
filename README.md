@@ -13,4 +13,8 @@
 
 2) 6 al 10 de Junio
 
+## SOCIEDAD Y ESTADO [Organizador](https://www.ubaxxicampusvirtual.uba.ar/pluginfile.php/867456/mod_resource/content/1/Organizador%20ICSE%201C%202022.pdf)
 
+1) Primer examen parcial: semana del 2 al 6 de mayo (fechas confirmadas y turnos en Evaluación del campus)
+
+2) egundo examen parcial: semana del 13 al 16 de junio 2022 (fechas confirmadas y turnos en Evaluación del campus)
