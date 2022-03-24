@@ -3,7 +3,7 @@
  Links piolita 
  
  - [Campus](https://www.ubaxxicampusvirtual.uba.ar/user/profile.php)
- 
+ - [TABLA FECHAS](https://github.com/Pebrd/UBA-XXI/blob/701683e5a01f94584343c7ab32a4627127246c6a/TABLA%20FECHAS%20MATE,%20IPC,%20SyE.pdf)
 
 ## Fechas de parciales 
 
