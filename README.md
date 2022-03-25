@@ -20,8 +20,7 @@ Fechas de parciales, links de Organizadores y nombres de profesores
 
 ### IPC [Organizador](https://github.com/Pebrd/UBA-XXI/blob/1034039da859dec7047e388844211a664fecce02/Organizadores/Organizador.pdf) 
 #### Inicio de cursada 22/3/22 (Buacar)
-[Bibliografia 1](https://github.com/Pebrd/UBA-XXI/blob/4602ccfe704ae3bad8f07d681e8e9a7ab549f700/Fuente%20Directa%20El%20origen%20de%20las%20Especies%20-%20Darwin%20U.%201%20IPC%20CI%20.pdf) [Bibliografia 2](https://github.com/Pebrd/UBA-XXI/blob/b27822055a373fc224796ae8e62a1de00ebcdde5/TeorasdelaCiencia-primerasaproximaciones-2016.pdf) [Bibliografia "Desenredadndo la ciencia p1"](https://github.com/Pebrd/UBA-XXI/blob/bd9f238344cb23cf2fd48f192631eb3439147c22/Bibliografia-IPC/Desenredando%20la%20ciencia%20-%201ra%20parte.pdf)
-
+[BIBLIO OBLIGATORIA](https://github.com/Pebrd/UBA-XXI/tree/main/Bibliografia-IPC/Desenredando%20la%20ciencia) [Bibliografia 1](https://github.com/Pebrd/UBA-XXI/blob/4602ccfe704ae3bad8f07d681e8e9a7ab549f700/Fuente%20Directa%20El%20origen%20de%20las%20Especies%20-%20Darwin%20U.%201%20IPC%20CI%20.pdf) [Bibliografia 2](https://github.com/Pebrd/UBA-XXI/blob/b27822055a373fc224796ae8e62a1de00ebcdde5/TeorasdelaCiencia-primerasaproximaciones-2016.pdf) 
 
 
 1) 25 al 29 de Abril 
